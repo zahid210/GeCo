@@ -69,7 +69,7 @@ public class MenuConsola {
             System.out.println("\n--- MENÚ PRINCIPAL ---");
             System.out.println("1. Agregar nueva contraseña");
             System.out.println("2. Buscar una contraseña");
-            System.out.println("3. Listar todos los sitios guardados");
+            System.out.println("3. Listar todos las redes guardadas");
             System.out.println("4. Guardar cambios y Salir");
             System.out.print("Seleccione una opción: ");
 

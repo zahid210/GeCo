@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ArchivoVault {
-    private static final String NOMBRE_ARCHIVO = "vaul.json";
+    private static final String NOMBRE_ARCHIVO = "vault.json";
     private final Path rutaArchivo;
     private final Gson gson;
 
